@@ -1,15 +1,10 @@
 ---
 name: Feature Request
 about: 機能を追加する
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
-
-# 概要
-
-〇〇を ×× する機能を追加する
 
 ## 追加内容
 
