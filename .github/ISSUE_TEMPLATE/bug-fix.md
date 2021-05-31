@@ -1,15 +1,10 @@
 ---
 name: Bug Fix
 about: バグを修正する
-title: ''
+title: ""
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
-
-# 概要
-
-〇〇画面で予期せぬエラーが発生する
 
 ## バグ内容
 
