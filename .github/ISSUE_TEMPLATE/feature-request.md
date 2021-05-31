@@ -1,5 +1,5 @@
 ---
-name: 機能追加
+name: Feature Request
 about: 機能を追加する
 title: ''
 labels: ''
