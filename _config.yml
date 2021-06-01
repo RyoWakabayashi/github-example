@@ -1,5 +1,1 @@
 theme: jekyll-theme-time-machine
-
-collections:
-  contents:
-    output: true
